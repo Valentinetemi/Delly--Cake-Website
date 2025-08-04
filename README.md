@@ -1,4 +1,4 @@
-# 🎂 Delly Cake – Modern Bakery Website
+# 🎂 Delly Cke – Modern Bakery Website
 
 **Delly Cake** is a modern and responsive bakery website built with **Next.js**, **Tailwind CSS**, and **TypeScript**. It presents an elegant digital storefront for cakes and pastries, showcasing beautiful designs, smooth animations, and a clean user experience.
 
